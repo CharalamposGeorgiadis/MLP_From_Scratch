@@ -16,7 +16,7 @@ Matplotlib is used in order to display two images:
 
 That model was trained with the following hyperparameters:
 1. Learning rate = 0.1
-2. Number of hidden layeres: 4
+2. Number of hidden layers: 4
 3. Number of hidden layer neurons (500 -> 250 -> 150 -> 100)
 4. Batch size = 32
 5. Number of epochs = 30
